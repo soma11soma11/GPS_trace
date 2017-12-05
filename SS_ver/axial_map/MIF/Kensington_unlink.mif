@@ -1,0 +1,64 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Index 2
+CoordSys NonEarth Units "m" Bounds (-101512, -89478) (111680, 81294)
+Columns 2
+  Line1 Smallint
+  Line2 Smallint
+Data
+
+Point 1086.64819 -3415.16883
+    Symbol (35,0,12) 
+Point 1138.95261 -3508.68563
+    Symbol (35,0,12) 
+Point 1186.1789 -3593.12316
+    Symbol (35,0,12) 
+Point 1145.8903 -3521.08982
+    Symbol (35,0,12) 
+Point 1152.46951 -3532.85302
+    Symbol (35,0,12) 
+Point 1165.01106 -3555.27633
+    Symbol (35,0,12) 
+Point 959.76164 -3550.51853
+    Symbol (35,0,12) 
+Point -1885.1433 -3045.56033
+    Symbol (35,0,12) 
+Point 1179.35697 -3544.91508
+    Symbol (35,0,12) 
+Point 1134.71392 -3632.74534
+    Symbol (35,0,12) 
+Point 965.63785 -3552.51657
+    Symbol (35,0,12) 
+Point 1148.70113 -3604.77007
+    Symbol (35,0,12) 
+Point 1148.23008 -3630.04321
+    Symbol (35,0,12) 
+Point 1133.72034 -3678.85028
+    Symbol (35,0,12) 
+Point -1614.2755 -2864.90063
+    Symbol (35,0,12) 
+Point -1378.47012 -2931.64004
+    Symbol (35,0,12) 
+Point 1084.96866 -3593.09029
+    Symbol (35,0,12) 
+Point -1797.8901 -3007.31116
+    Symbol (35,0,12) 
+Point -2134.95422 -3155.06984
+    Symbol (35,0,12) 
+Point -2015.33283 -3102.63148
+    Symbol (35,0,12) 
+Point 932.9407 -3536.36708
+    Symbol (35,0,12) 
+Point 880.09786 -3493.6851
+    Symbol (35,0,12) 
+Point 1119.25303 -3567.58045
+    Symbol (35,0,12) 
+Point -1620.91857 -2853.45951
+    Symbol (35,0,12) 
+Point -1801.93435 -3000.2336
+    Symbol (35,0,12) 
+Point 1136.6836 -3570.33124
+    Symbol (35,0,12) 
+Point 1117.58437 -3569.76266
+    Symbol (35,0,12) 

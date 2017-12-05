@@ -1,0 +1,14 @@
+Version 300
+Charset "WindowsLatin1"
+Delimiter ","
+Index 2
+CoordSys NonEarth Units "m" Bounds (0, -20000) (20000, 0)
+Columns 2
+  Line1 Smallint
+  Line2 Smallint
+Data
+
+Point 1470.90829 -3045.31074
+    Symbol (35,0,12) 
+Point 1421.46534 -3024.6654
+    Symbol (35,0,12) 
